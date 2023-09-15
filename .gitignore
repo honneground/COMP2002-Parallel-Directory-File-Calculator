@@ -1,0 +1,5 @@
+*.o
+calculator
+*.dSYM/
+.DS_Store
+result.txt
